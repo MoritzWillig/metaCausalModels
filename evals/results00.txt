@@ -1,0 +1,30 @@
+Running with 50 threads.
+100 setups with resamples
+======================================================
+Collecting statistics for 1 mechanisms.
+Pred: [ 2. 81.  3.  7.  7.]
+1 mechanisms eval took 443.63216257095337 sec.
+======================================================
+Collecting statistics for 2 mechanisms.
+Pred: [41.  1. 54.  4.  0.]
+2 mechanisms eval took 1148.2412450313568 sec.
+======================================================
+Collecting statistics for 3 mechanisms.
+Pred: [68.  0.  4. 22.  6.]
+3 mechanisms eval took 2275.6061103343964 sec.
+======================================================
+Collecting statistics for 4 mechanisms.
+Pred: [92.  0.  0.  1.  7.]
+4 mechanisms eval took 3488.297984600067 sec.
+Avg Accuracy 0.8
+Accuracies:
+[0. 1. 1. 1. 1.]
+Avg Errors:
+[ 0.    0.36 -0.79 -2.02 -3.69]
+Confusion Matrix:
+[[ 0.  0.  0.  0.  0.]
+ [ 2. 81.  3.  7.  7.]
+ [41.  1. 54.  4.  0.]
+ [68.  0.  4. 22.  6.]
+ [92.  0.  0.  1.  7.]]
+done.
