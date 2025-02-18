@@ -4,7 +4,7 @@ Code Repository for the corresponding paper "*Systems with Switching Causal Rela
 
 **Authors**: Moritz Willig, Tim Nelson Tobiasch, Florian Peter Busch, Jonas Seng, Devendra Singh Dhami, Kristian Kersting
 
-**OpenReview**: (https://openreview.net/forum?id=J9VogDTa1W)[https://openreview.net/forum?id=J9VogDTa1W]
+**OpenReview**: [https://openreview.net/forum?id=J9VogDTa1W](https://openreview.net/forum?id=J9VogDTa1W)
 
 ## Abstract
 
